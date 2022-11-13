@@ -1,0 +1,13 @@
+button {
+  background-color: #BABB77;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  width: fit-content;
+  font-size: 16px;
+}
+
+.buttonLink {
+  font-weight: bold;
+  color: #BABB77;
+}

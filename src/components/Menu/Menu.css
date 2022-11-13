@@ -1,0 +1,26 @@
+.menuWrapper {
+    border: 3px solid black;
+    margin: 25px;
+}
+.menu {
+    height: 400px;
+    margin: 25px;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu h2 {
+    font-size: 32px;
+    margin: 2px 0;
+}
+
+@media screen and (min-width: 820px) {
+    .menu {
+        margin: 50px 150px;
+    }
+}

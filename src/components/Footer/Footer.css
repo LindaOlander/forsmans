@@ -1,0 +1,24 @@
+.footer {
+    background-color: #0B2B35;
+    min-height: 40vh;
+    margin-top: 45px;
+    padding: 25px 20px;
+    color: #ffffff;
+}
+
+.phone {
+    text-decoration: none;
+}
+
+.link {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.phone:hover, .link:hover {
+    text-decoration: underline;
+}
+
+.details {
+    margin: 50px 0;
+}
