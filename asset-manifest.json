@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/forsmans/static/css/main.de0d882c.css",
-    "main.js": "/forsmans/static/js/main.a7a37ba7.js",
+    "main.css": "/forsmans/static/css/main.a26b3cd5.css",
+    "main.js": "/forsmans/static/js/main.2c8ef8a2.js",
     "static/js/787.993522a6.chunk.js": "/forsmans/static/js/787.993522a6.chunk.js",
     "index.html": "/forsmans/index.html",
-    "main.de0d882c.css.map": "/forsmans/static/css/main.de0d882c.css.map",
-    "main.a7a37ba7.js.map": "/forsmans/static/js/main.a7a37ba7.js.map",
+    "main.a26b3cd5.css.map": "/forsmans/static/css/main.a26b3cd5.css.map",
+    "main.2c8ef8a2.js.map": "/forsmans/static/js/main.2c8ef8a2.js.map",
     "787.993522a6.chunk.js.map": "/forsmans/static/js/787.993522a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de0d882c.css",
-    "static/js/main.a7a37ba7.js"
+    "static/css/main.a26b3cd5.css",
+    "static/js/main.2c8ef8a2.js"
   ]
 }
