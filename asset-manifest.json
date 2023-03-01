@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/forsmans/static/css/main.f98887f6.css",
-    "main.js": "/forsmans/static/js/main.b5cb3045.js",
+    "main.css": "/forsmans/static/css/main.49385117.css",
+    "main.js": "/forsmans/static/js/main.f259d0f9.js",
     "static/js/787.993522a6.chunk.js": "/forsmans/static/js/787.993522a6.chunk.js",
+    "static/media/youtube.png": "/forsmans/static/media/youtube.c5d66e674da68bd02f2c.png",
     "static/media/EU-logo-jordbruksfonden-farg.jpg": "/forsmans/static/media/EU-logo-jordbruksfonden-farg.8e3ad913a72f991ad4b8.jpg",
     "index.html": "/forsmans/index.html",
-    "main.f98887f6.css.map": "/forsmans/static/css/main.f98887f6.css.map",
-    "main.b5cb3045.js.map": "/forsmans/static/js/main.b5cb3045.js.map",
+    "main.49385117.css.map": "/forsmans/static/css/main.49385117.css.map",
+    "main.f259d0f9.js.map": "/forsmans/static/js/main.f259d0f9.js.map",
     "787.993522a6.chunk.js.map": "/forsmans/static/js/787.993522a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f98887f6.css",
-    "static/js/main.b5cb3045.js"
+    "static/css/main.49385117.css",
+    "static/js/main.f259d0f9.js"
   ]
 }
