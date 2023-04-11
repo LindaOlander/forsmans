@@ -1,0 +1,33 @@
+.shopContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.shopBox {
+    width: 30%;
+}
+
+.shopImageContainer {
+    overflow: hidden;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.shopImage {
+    width: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+    .shopContainer {
+        flex-direction: column;
+    }
+    
+    .shopBox {
+      width: 100%;
+    }
+  }

@@ -1,14 +1,21 @@
 {
   "name": "forsmans",
-  "homepage": "https://lindaolander.github.io/forsmans",
+  "homepage": "https://www.forsmans.se",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@googlemaps/react-wrapper": "^1.1.35",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "google-map-react": "^2.2.0",
+    "history": "^5.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-ig-feed": "^1.7.0",
+    "react-markdown": "^8.0.4",
+    "react-router-dom": "^6.4.4",
     "react-scripts": "5.0.1",
     "typescript": "^4.8.4",
     "web-vitals": "^2.1.4"
@@ -40,6 +47,7 @@
     ]
   },
   "devDependencies": {
+    "@iconify/react": "^4.0.1",
     "gh-pages": "^4.0.0"
   }
 }

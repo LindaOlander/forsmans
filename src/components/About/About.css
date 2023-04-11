@@ -1,6 +1,7 @@
 .om {
-    min-height: 40px;
-    padding: 0 50px;
+    min-height: 40vh;
+    margin: 25px 0;
+    /* padding: 0 50px; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -19,12 +20,35 @@
     letter-spacing: 0.5px;
 }
 
-.us {
-    text-align: center;
-    margin: 0;
+.om a {
+    color: #000000;
 }
+
+.om a:hover {
+    text-decoration: underline;
+  }
+  
+.catering {
+    margin: 100px 0 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.us {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f7f4e9;
+    padding: 25px;
+    margin: 25px 0;
+}
+
+.usText {
+    width: 100%;
+}
+
 .usImage {
-    margin: 50px 0 10px 10px;
     height: 250px;
     width: 250px;
     border-radius: 50%;
@@ -36,6 +60,20 @@
 
 @media screen and (min-width: 820px) {
     .om {
-        padding: 0 350px;
+        padding: 0 200px;
+    }
+
+    .catering {
+     margin: 100px 0 50px 0;
+    }
+
+    .us {
+        padding: 50px 150px;
+        margin: 50px 0;
+        flex-direction: row;
+    }
+
+    .usText {
+        width: 40%;
     }
 }

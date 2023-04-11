@@ -1,0 +1,34 @@
+
+.kartaContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+  }
+  
+  .kartaVideo iframe {
+      width: 560px;
+      height: 315px;
+  }
+
+  .kartaVideoMobile {
+      display: none;
+  }
+
+  @media screen and (max-width: 1130px) {
+    .kartaContainer {
+      flex-direction: column;
+    }
+
+    .kartaVideo {
+        display: none;
+    }
+
+    .kartaVideoMobile {
+        display: block;
+        width: 100%;
+    }
+
+    .kartaVideoMobile a img {
+      width: 100%;
+    }
+  }
