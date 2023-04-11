@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/forsmans/static/css/main.dbcfd419.css",
-    "main.js": "/forsmans/static/js/main.ba730e78.js",
-    "static/js/787.993522a6.chunk.js": "/forsmans/static/js/787.993522a6.chunk.js",
-    "static/media/youtube.png": "/forsmans/static/media/youtube.c5d66e674da68bd02f2c.png",
-    "static/media/EU-logo-jordbruksfonden-farg.jpg": "/forsmans/static/media/EU-logo-jordbruksfonden-farg.8e3ad913a72f991ad4b8.jpg",
-    "index.html": "/forsmans/index.html",
-    "main.dbcfd419.css.map": "/forsmans/static/css/main.dbcfd419.css.map",
-    "main.ba730e78.js.map": "/forsmans/static/js/main.ba730e78.js.map",
-    "787.993522a6.chunk.js.map": "/forsmans/static/js/787.993522a6.chunk.js.map"
+    "main.css": "/static/css/main.dbcfd419.css",
+    "main.js": "/static/js/main.df981492.js",
+    "static/js/787.993522a6.chunk.js": "/static/js/787.993522a6.chunk.js",
+    "static/media/youtube.png": "/static/media/youtube.c5d66e674da68bd02f2c.png",
+    "static/media/EU-logo-jordbruksfonden-farg.jpg": "/static/media/EU-logo-jordbruksfonden-farg.8e3ad913a72f991ad4b8.jpg",
+    "index.html": "/index.html",
+    "main.dbcfd419.css.map": "/static/css/main.dbcfd419.css.map",
+    "main.df981492.js.map": "/static/js/main.df981492.js.map",
+    "787.993522a6.chunk.js.map": "/static/js/787.993522a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dbcfd419.css",
-    "static/js/main.ba730e78.js"
+    "static/js/main.df981492.js"
   ]
 }
